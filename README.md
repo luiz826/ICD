@@ -4,4 +4,4 @@ Repositório será usado como auxílio para o seguimento da disciplina do curso 
 
 ## Exercícios
 
-Aqui se encontram os exercícios feitos até o momento.
+Na pasta exercicios se encontram os exercícios feitos até o momento.
